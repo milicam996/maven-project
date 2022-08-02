@@ -11,6 +11,4 @@ To change version in parent POM file in properties section change property revis
 To execute test use command:
 mvn clean test
 
-
-
-
+#Test Pull
